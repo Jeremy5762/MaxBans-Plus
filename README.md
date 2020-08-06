@@ -56,7 +56,7 @@ Here's the command list:
 * /kick <user> [message]
 * /iplookup <user>
 * /lockdown <ALL|JOIN|NEW|OFF> [message]
-* /history [page] [user]
+* /history [user] [page]
 
 **Note**: Arguments inside `<>` are required, while ones inside `[]` are optional. 
 
